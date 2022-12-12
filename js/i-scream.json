@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Creamy Smores",
+      "calories": 425,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild strawberries",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image": "ice-cream-xtra2.svg"
+    },
+    {
+      "name": "Crazy BlueBerry",
+      "calories": 425,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild strawberries",
+        "milk chocolate dip",
+        "candy sprinkles"
+      ],
+      "image": "ice-cream-xtra1.svg"
     }
   ]
 }
